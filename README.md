@@ -1,2 +1,2 @@
-# esx_status
-New version esx_status
+# esx_status for fivem
+For any problem please contact me immediately
