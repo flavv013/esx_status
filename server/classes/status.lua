@@ -54,13 +54,3 @@ function CreateStatus(xPlayer, name, default, color, visible, tickCallback, clie
 	return self
 
 end
-Citizen.CreateThread(function()
-	while true do 
-		print('^4Merci Clippy#2929 pour la base. ^^')
-		print('^4Merci Clippy#2929 pour la base. ^^')
-		print('^4Merci Clippy#2929 pour la base. ^^')
-		print('^4Merci Clippy#2929 pour la base. ^^')
-		print('^4Merci Clippy#2929 pour la base. ^^')
-		Wait(60*1000*10)
-	end
-end)
